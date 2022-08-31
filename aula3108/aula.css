@@ -1,0 +1,68 @@
+
+div{
+	width: 200px;
+	height: 100px;
+	background: black;
+	color: blue;
+	font-size: 10px;
+	animation: animacao1 10s;
+	position: relative;
+	animation-fill-mode: forwards;/*ou backwards*/
+	/*define o qu acontece com a animnação antes de iniciar e/ou após finalizar */
+
+}
+#teste{
+	width: 200px;
+	height: 200px;
+	animation: rodar 10s;
+	position: relative;
+	left: 45%;
+}
+
+@keyframes animacao1{
+
+	0% {
+		background: blue;
+		color: white;
+		font-size: 10px;
+		left: 0px;
+		top: 0px;
+	}
+
+		25% {
+		background: black;
+		color: red;
+		font-size: 12px;
+		left: 250px;
+		top: 0px;
+
+	}
+		50% {
+		background: purple;
+		color: yellow;
+		font-size: 15px;
+		left: 250px;
+		top: 150px;
+	}
+		75% {
+		background: green;
+		color: black;
+		font-size: 18px;
+		left: 0px;
+		top: 150px;
+	}
+	100%{
+
+		left: 0px;
+		top: 0px;
+	}
+
+}
+@keyframes rodar{
+	from{
+		transform: rotate(0deg);
+	}
+	to {
+		transform: rotate(360deg);
+	}
+}
