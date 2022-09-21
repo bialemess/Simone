@@ -1,0 +1,16 @@
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.Form1.resources
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.Properties.Resources.resources
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Estudio\bin\Debug\Estudio.exe.config
+C:\Users\aluno\source\repos\Estudio\bin\Debug\Estudio.exe
+C:\Users\aluno\source\repos\Estudio\bin\Debug\Estudio.pdb
+C:\Users\aluno\source\repos\Estudio\bin\Debug\MySql.Data.dll
+C:\Users\aluno\source\repos\Estudio\bin\Debug\Google.Protobuf.dll
+C:\Users\aluno\source\repos\Estudio\bin\Debug\Renci.SshNet.dll
+C:\Users\aluno\source\repos\Estudio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aluno\source\repos\Estudio\bin\Debug\MySql.Data.xml
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.csproj.CopyComplete
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.exe
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.pdb
