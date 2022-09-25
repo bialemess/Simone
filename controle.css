@@ -5,6 +5,9 @@ body {
 	padding: 0;
 	background-size: cover;
 	font-family:"Comfortaa", sans-serif ;
+	background-image:url(fundo.png);
+
+	
 
 }
 
@@ -26,11 +29,10 @@ body {
 
 .usuario{
 
-	border-radius: 50%;
 	position: absolute;
-	top: -50px;
-	left: 112px;
-
+	top: -180px;
+	left: 40px;
+   
 }
 
 h1{
@@ -38,10 +40,10 @@ h1{
 	padding-top: 0;
 	padding-left: 0;
 	padding-bottom: 20px;
-   letter-spacing: 10px;
-   text-transform: uppercase;
-   text-align: center;
-   font-size: 25px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 25px;
 }
 
 .login p{
@@ -109,4 +111,3 @@ transition: 0.2s;
 		transition: 0.2s;
 		color:#2E8B57 ;
 	}
-

@@ -5,22 +5,60 @@
 	<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
 	<meta charset="utf-8">
 	
+	<style type="text/css">
+
+
+
+@keyframes correr {
+    0% {
+        transform: translateX(100px);
+    }
+    100% {
+        transform: translateX(0);
+    }
+}
+
+.stitch{
+
+	animation: correr 5s;
+	top: 390px;
+	left:430px;
+	position: absolute;
+	max-width: 100px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+
+}
+
+</style>
 	<title>login | Html | CSS</title>
 </head>
-<body background="https://i.pinimg.com/originals/c9/a8/60/c9a8605f3dce5c9e858bdcb7ec2b891b.jpg">
+<body>
+
+
+
+	<img src="stitch.png" class="stitch">
+
 
 <div class="login">
-	<img src="https://i.pinimg.com/originals/b4/eb/11/b4eb1188525daf87c87fcf592cd3a197.png" class="usuario" width="100"
-	height="100" alt="">
-    <h1>Quem esta usando a conta?</h1>
+	<img src="usuario.png" class="usuario" width="250"
+	height="350" alt="">
+    <h1>Quem está usando a conta?</h1>
     <form>
     	
 <p>Usuário</p>
 <input type="text" name="" placeholder="Insira seu nome de usuário">
 <p>senha</p>
+
 <input type="password" name="" placeholder="Insira sua senha">
-<input type="submit" name="" value="Entrar">
+<br> 
+<button style=" border-color: lightblue; border-radius: 6px; padding: 15px; font-size: 16px;"><a href="interface.html">Entrar</button></a>
+<br>
+<br>
+
 <a href="#"> Esqueceu sua senha?</a><br>
+
 <a href="#"> Ainda não possui uma conta? </a>
 
     </form>
