@@ -5,6 +5,7 @@ body {
 	background-size: cover;
 	font-family:"Comfortaa", sans-serif ;
 	background-image:url(fundo.png);
+	background-repeat: no-repeat;
 
 	
 
